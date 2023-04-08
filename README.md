@@ -1,1 +1,1 @@
-# chatgpt-reviews-analyses
+# chatgpt-reviews-analyses-nlp
